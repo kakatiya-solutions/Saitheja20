@@ -33,3 +33,18 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitheja20&show_icons=true&locale=en&layout=compact" alt="saitheja20" /></p>
 
+💻 Tech Stack/Technology:
+Dart
+
+HTML5
+
+JavaScript Kotlin Markdown Swift TypeScript Netlify Firebase Google Cloud Heroku Angular Flutter IOS ANDROID MySQL MongoDB Postgres Realm SQLite Figma Canva Adobe XD LINUX
+
+Docker Gradle Jira Postman Swagger
+
+Programming Languages and Tools Technologies 🛠️
+Programming Language
+HTML5 CSS3 Bootstrap SASS Less JavaScript TypeScript TailwindCSS Webpack
+
+NPM Yarn PHP
+
